@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#big-title {
+    color: black;
+    background-color: red;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+
+#metallica-picture {
+    border: 10px solid red;
+}
+
+#starwars-picture {
+    border: 10px solid white;
+}
+
+.text {
+    background-color: orange;
+}
+
+.list-title {
+    background-color: red;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.list {
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: left;
+}
